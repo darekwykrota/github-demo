@@ -1,3 +1,6 @@
+Adding a copyright comment - on the new branch
+
+
 another one in here
 osjodifjosdjif
 this line will be here
