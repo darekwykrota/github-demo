@@ -1,8 +1,8 @@
 Adding a copyright comment - on the new branch
 
 
-another one in here
-osjodifjosdjif
+Master a very respectful website
+Master what will line do
 this line will be here
 ok
 ok
@@ -11,7 +11,7 @@ cool is this one
 
 
 
-Adding this one line - will diff pick it up?
+I am tiredAdding this one line - will diff pick it up?
 
 
 
