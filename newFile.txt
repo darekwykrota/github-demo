@@ -9,3 +9,8 @@ cool is this one
 
 
 Adding this one line - will diff pick it up?
+
+
+
+
+This line will not be in origin/master
