@@ -1,8 +1,8 @@
 Adding a copyright comment - on the new branch
 
 
-another one in here
-osjodifjosdjif
+Fourth line in the realwork branch
+Following line changes in the realwork branch as well
 this line will be here
 ok
 ok
@@ -11,7 +11,7 @@ cool is this one
 
 
 
-Adding this one line - will diff pick it up?
+Great we sjte Adding this one line - will diff pick it up?
 
 
 
